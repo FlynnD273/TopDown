@@ -8,7 +8,7 @@ This is unique, because the entire world is on a torus. Bullets, enemies, even t
 #### Keyboard
 Space to shoot\
 Left/Right arrow keys to turn\
-Up arrow to boost forward\
+Up arrow to boost forward
 
 #### Gamepad
 A to shoot\
