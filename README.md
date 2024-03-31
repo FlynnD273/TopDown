@@ -2,7 +2,7 @@
 An asteroids style scrolling space shooter
 
 This is similar to asteroids, except you're being chased!\
-This is unique, because the entire world is on a torus. Bullets, enemies, even the player all wrap around.\
+This is unique, because the entire world is on a torus. Bullets, enemies, even the player all wrap around.
 
 ## Controls
 #### Keyboard
